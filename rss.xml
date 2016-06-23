@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[E-Commerce]]></title>
+        <description><![CDATA[E-Commerce]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 18:49:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[E-commerce machine]]></title>
+            <description><![CDATA[<article><h1>E-commerce machine</h1><p>The new way of customer relationship management!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e59bcd3-5e00-443a-ba8f-a584df86ac68.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e59bcd3-5e00-443a-ba8f-a584df86ac68.jpg</link>
+            <guid isPermaLink="false">b4c81ff6-0e72-417e-b8c9-64405659e2d6</guid>
+            <pubDate>Thu, 23 Jun 2016 18:49:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
