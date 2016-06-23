@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.5252951
+  brandStrength: 0.8271501
+  brandColors:
+    - '#02586D'
+    - '#01B9D8'
+    - '#FFFFFF'
+    - '#5096AD'
+    - '#99B8C1'
+  rhythmicContrast: 1
+typography_spectrum: 0.6180438
+name: E-Commerce
