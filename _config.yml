@@ -1,5 +1,4 @@
-layout_spectrum: 0
-typography_spectrum: 0.6180438
+layout_spectrum: 0.7048904
 color:
   saturation: 1
   lightness: 0.5252951
@@ -11,4 +10,5 @@ color:
     - '#5096AD'
     - '#99B8C1'
   rhythmicContrast: 1
+typography_spectrum: 0.6180438
 name: E-Commerce
