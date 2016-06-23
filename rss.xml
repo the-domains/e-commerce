@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[E-Commerce]]></title>
         <description><![CDATA[E-Commerce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-commerce/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 18:49:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 20:05:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-commerce/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobile Commerce]]></title>
+            <description><![CDATA[<article><h1>Mobile Commerce</h1><p>http://flip.it/kztjh</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b761a976-7c3e-4842-874a-01514cd28050.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b761a976-7c3e-4842-874a-01514cd28050.jpg</link>
+            <guid isPermaLink="false">204f70a1-5c86-4a90-aa97-9fbfd52a235a</guid>
+            <pubDate>Thu, 23 Jun 2016 20:04:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[E-commerce machine]]></title>
             <description><![CDATA[<article><h1>E-commerce machine</h1><p>The new way of customer relationship management!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e59bcd3-5e00-443a-ba8f-a584df86ac68.jpg"></article>]]></description>
